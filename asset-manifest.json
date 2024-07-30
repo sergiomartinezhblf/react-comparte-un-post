@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-comparte-un-post/static/css/main.6ea7a666.css",
+    "main.js": "/react-comparte-un-post/static/js/main.8f749836.js",
+    "index.html": "/react-comparte-un-post/index.html",
+    "main.6ea7a666.css.map": "/react-comparte-un-post/static/css/main.6ea7a666.css.map",
+    "main.8f749836.js.map": "/react-comparte-un-post/static/js/main.8f749836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea7a666.css",
+    "static/js/main.8f749836.js"
+  ]
+}
