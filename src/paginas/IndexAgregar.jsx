@@ -3,6 +3,7 @@ import { crearArchivo, subirImg, obtenerPost, crearPost } from "../firebase/conf
 import ImageMessage from "../componentes/ImageMessage"
 import {v4} from "uuid"
 import { IoCloudUploadOutline } from "react-icons/io5"
+import '../App.css';
 
 
 
@@ -91,7 +92,7 @@ function IndexAgregar() {
   return (
     <div>
       
-      <form className="form-control mt-5 pb-3 m-auto w-75" onSubmit={handleSubmit}>
+      <form className="form-control mt-5 pb-3 m-auto w-75 color" onSubmit={handleSubmit}>
         
          <label className="form-control">
          E-mail: 

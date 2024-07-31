@@ -1,4 +1,6 @@
-
+.color{
+    color: #072aac !important;
+}
 
 .margen{
     margin: 10px;
@@ -17,4 +19,8 @@
 
 .imgIndex{
     font-size: 100px;
+}
+
+.imgError{
+    font-size: 200px;
 }
